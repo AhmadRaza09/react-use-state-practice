@@ -18,10 +18,11 @@ h2 {
 .svg {
   width: 20px;
   height: 20px;
+  flex-shrink: 0;
 }
 .user-list > div > svg,
 h2 {
-  color: rgb(47, 47, 47);
+  color: rgb(74, 74, 74);
   font-weight: 500;
   font-size: 1.4rem;
 }
